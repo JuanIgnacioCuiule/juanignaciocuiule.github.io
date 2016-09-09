@@ -1,11 +1,39 @@
 body {
-	font-family: 'baffle'
+	font-family: 'Open Sans'
+}
+
+header {
+	height: 100vh;
 }
 
 h1 {
-	margin-top: 300px;
+	margin-top: 50%;
+	transform: translateY(-50%);
 	text-align: center;
 	font-size: 40px;
-	font-family: 'Open Sans';
 	display: none;
+}
+
+.icons {
+	width: 300px;
+	height: 56px;
+	font-size: 54px;
+	margin: 0 auto;
+}
+
+.icons ul {
+	list-style: none;
+	padding: 0;
+	margin: -30px;
+	text-align: center;
+}
+
+.icons ul li {
+	display: inline-block;
+	padding: 0 10px;
+}
+
+a,
+a:visited {
+	color: #337ab7;
 }
