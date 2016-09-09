@@ -1,0 +1,11 @@
+body {
+	font-family: 'baffle'
+}
+
+h1 {
+	margin-top: 300px;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Open Sans';
+	display: none;
+}
