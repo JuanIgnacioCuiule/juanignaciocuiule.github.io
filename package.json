@@ -10,19 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/juancuiule/juancuiule.github.io.git"
   },
-  "keywords": [
-    "website",
-    "cv",
-    "personal",
-    "portfolio"
-  ],
+  "keywords": ["website", "cv", "personal", "portfolio"],
   "author": "Juan Ignacio Cuiule",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juancuiule/juancuiule.github.io/issues"
   },
-  "homepage": "https://github.com/juancuiule/juancuiule.github.io#readme",
-  "dependencies": {
-    "baffle": "^0.3.6"
-  }
+  "homepage": "https://github.com/juancuiule/juancuiule.github.io#readme"
 }

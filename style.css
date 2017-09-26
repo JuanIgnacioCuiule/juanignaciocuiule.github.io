@@ -1,0 +1,64 @@
+* {
+  font-family: "Open Sans";
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  display: block;
+  margin: 10px;
+}
+
+span i {
+  margin: 0 5px;
+}
+
+.profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 5px;
+}
+
+.picture {
+  border-radius: 10px;
+  height: auto;
+  width: 200px;
+  margin: 5px;
+}
+
+.bio {
+  margin: 10px 0;
+  max-width: 500px;
+  text-align: center;
+}
+
+.anchor {
+  color: #037df4;
+  margin: 5px 0;
+  text-decoration: none;
+}
+
+.social {
+  display: flex;
+  min-width: 200px;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.social i {
+  font-size: 3em;
+}
+
+.twitter a {
+  color: #55acee;
+}
+
+.github a {
+  color: black;
+}
+
+.linkedin a {
+  color: #007bb5;
+}
