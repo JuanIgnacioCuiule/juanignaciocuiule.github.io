@@ -2,7 +2,6 @@ class Profile extends React.Component {
   constructor() {
     super();
     this.state = { done: false };
-    this.getData = this.getData.bind(this);
   }
 
   componentWillMount() {
